@@ -1,0 +1,380 @@
+{
+	"classify001":{
+		"name" : "热门",
+		"list" : [
+			{
+				"id" : "shop01",
+				"name" : "蒙贝，天然带肉牛棒骨",
+				"src" : "m1.jpg",
+				"price" : "19.80"
+			},
+			{
+				"id" : "shop02",
+				"name" : "蒙贝，天然带肉牛棒骨",
+				"src" : "m2.jpg",
+				"price" : "23.80"
+			},
+			{
+				"id" : "shop03",
+				"name" : "蒙贝，天然带肉牛棒骨",
+				"src" : "m3.jpg",
+				"price" : "24.80"
+			},
+			{
+				"id" : "shop04",
+				"name" : "蒙贝，天然带肉牛棒骨",
+				"src" : "m4.jpg",
+				"price" : "29.64"
+			},
+			{
+				"id" : "shop05",
+				"name" : "蒙贝，天然带肉牛棒骨",
+				"src" : "m5.jpg",
+				"price" : "13.3"
+			},
+			{
+				"id" : "shop06",
+				"name" : "蒙贝，天然带肉牛棒骨",
+				"src" : "m6.jpg",
+				"price" : "24.8"
+			},
+			{
+				"id" : "shop07",
+				"name" : "蒙贝，天然带肉牛棒骨",
+				"src" : "m7.jpg",
+				"price" : "35.9"
+			},
+			{
+				"id" : "shop08",
+				"name" : "蒙贝，天然带肉牛棒骨",
+				"src" : "m8.jpg",
+				"price" : "14.8"
+			}
+			
+		]
+	},
+	"classify002":{
+		"name" : "进口狗粮",
+		"list" : [
+			{
+				"id" : "shop9",
+				"name" : "美国原装进口梅里亚",
+				"src" : "m9.jpg",
+				"price" : "12.5"
+			},
+			{
+				"id" : "shop10",
+				"name" : "美国原装进口梅里亚",
+				"src" : "m10.jpg",
+				"price" : "12.5"
+			},
+			{
+				"id" : "shop11",
+				"name" : "美国原装进口梅里亚",
+				"src" : "m11.jpg",
+				"price" : "13.2"
+			},
+			{
+				"id" : "shop12",
+				"name" : "美国原装进口梅里亚",
+				"src" : "m12.jpg",
+				"price" : "14.3"
+			},
+			{
+				"id" : "shop13",
+				"name" : "美国原装进口梅里亚",
+				"src" : "m13.jpg",
+				"price" : "13.2"
+			},
+			{
+				"id" : "shop14",
+				"name" : "美国原装进口梅里亚",
+				"src" : "m14.jpg",
+				"price" : "56.7"
+			},
+			{
+				"id" : "shop15",
+				"name" : "美国原装进口梅里亚",
+				"src" : "m15.jpg",
+				"price" : "14.5"
+			},
+			{
+				"id" : "shop16",
+				"name" : "美国原装进口梅里亚",
+				"src" : "m16.jpg",
+				"price" : "17.8"
+			}
+			
+		]
+	},
+	"classify003":{
+		"name" : "国产狗粮",
+		"list" : [
+			{
+				"id" : "shop17",
+				"name" : "冠能中型犬幼犬全价犬粮",
+				"src" : "m17.jpg",
+				"price" : "12.5"
+			},
+			{
+				"id" : "shop18",
+				"name" : "冠能中型犬幼犬全价犬粮",
+				"src" : "m18.jpg",
+				"price" : "12.5"
+			},
+			{
+				"id" : "shop19",
+				"name" : "冠能中型犬幼犬全价犬粮",
+				"src" : "m19.jpg",
+				"price" : "13.2"
+			},
+			{
+				"id" : "shop20",
+				"name" : "冠能中型犬幼犬全价犬粮",
+				"src" : "m20.jpg",
+				"price" : "14.3"
+			},
+			{
+				"id" : "shop21",
+				"name" : "冠能中型犬幼犬全价犬粮",
+				"src" : "m21.jpg",
+				"price" : "13.2"
+			},
+			{
+				"id" : "shop22",
+				"name" : "冠能中型犬幼犬全价犬粮",
+				"src" : "m22.jpg",
+				"price" : "56.7"
+			},
+			{
+				"id" : "shop23",
+				"name" : "冠能中型犬幼犬全价犬粮",
+				"src" : "m23.jpg",
+				"price" : "14.5"
+			},
+			{
+				"id" : "shop24",
+				"name" : "冠能中型犬幼犬全价犬粮",
+				"src" : "m24.jpg",
+				"price" : "17.8"
+			}
+			
+		]
+	},
+	"classify004":{
+		"name" : "散装狗粮",
+		"list" : [
+			{
+				"id" : "shop25",
+				"name" : "贝尔思味特犬用亮白洁牙棒",
+				"src" : "m25.jpg",
+				"price" : "12.5"
+			},
+			{
+				"id" : "shop26",
+				"name" : "贝尔思味特犬用亮白洁牙棒",
+				"src" : "m26.jpg",
+				"price" : "12.5"
+			},
+			{
+				"id" : "shop27",
+				"name" : "贝尔思味特犬用亮白洁牙棒",
+				"src" : "m27.jpg",
+				"price" : "13.2"
+			},
+			{
+				"id" : "shop28",
+				"name" : "贝尔思味特犬用亮白洁牙棒",
+				"src" : "m28.jpg",
+				"price" : "14.3"
+			},
+			{
+				"id" : "shop29",
+				"name" : "贝尔思味特犬用亮白洁牙棒",
+				"src" : "m29.jpg",
+				"price" : "13.2"
+			},
+			{
+				"id" : "shop30",
+				"name" : "贝尔思味特犬用亮白洁牙棒",
+				"src" : "m30.jpg",
+				"price" : "56.7"
+			},
+			{
+				"id" : "shop31",
+				"name" : "贝尔思味特犬用亮白洁牙棒",
+				"src" : "m31.jpg",
+				"price" : "14.5"
+			},
+			{
+				"id" : "shop32",
+				"name" : "贝尔思味特犬用亮白洁牙棒",
+				"src" : "m32.jpg",
+				"price" : "17.8"
+			}
+			
+		]
+	},
+	"classify005":{
+		"name" : "处方狗粮",
+		"list" : [
+			{
+				"id" : "shop33",
+				"name" : "宠香儿，家庭专用系列",
+				"src" : "m33.jpg",
+				"price" : "12.5"
+			},
+			{
+				"id" : "shop34",
+				"name" : "宠香儿，家庭专用系列",
+				"src" : "m34.jpg",
+				"price" : "12.5"
+			},
+			{
+				"id" : "shop35",
+				"name" : "宠香儿，家庭专用系列",
+				"src" : "m35.jpg",
+				"price" : "13.2"
+			},
+			{
+				"id" : "shop36",
+				"name" : "宠香儿，家庭专用系列",
+				"src" : "m36.jpg",
+				"price" : "14.3"
+			},
+			{
+				"id" : "shop37",
+				"name" : "宠香儿，家庭专用系列",
+				"src" : "m37.jpg",
+				"price" : "13.2"
+			},
+			{
+				"id" : "shop38",
+				"name" : "宠香儿，家庭专用系列",
+				"src" : "m38.jpg",
+				"price" : "56.7"
+			},
+			{
+				"id" : "shop39",
+				"name" : "宠香儿，家庭专用系列",
+				"src" : "m39.jpg",
+				"price" : "14.5"
+			},
+			{
+				"id" : "shop40",
+				"name" : "宠香儿，家庭专用系列",
+				"src" : "m40.jpg",
+				"price" : "17.8"
+			}
+			
+		]
+	},
+	"classify006":{
+		"name" : "杂狗粮",
+		"list" : [
+			{
+				"id" : "shop41",
+				"name" : "冠能中型犬幼犬全价犬粮",
+				"src" : "m17.jpg",
+				"price" : "12.5"
+			},
+			{
+				"id" : "shop42",
+				"name" : "冠能中型犬幼犬全价犬粮",
+				"src" : "m18.jpg",
+				"price" : "12.5"
+			},
+			{
+				"id" : "shop43",
+				"name" : "冠能中型犬幼犬全价犬粮",
+				"src" : "m19.jpg",
+				"price" : "13.2"
+			},
+			{
+				"id" : "shop44",
+				"name" : "冠能中型犬幼犬全价犬粮",
+				"src" : "m20.jpg",
+				"price" : "14.3"
+			},
+			{
+				"id" : "shop45",
+				"name" : "冠能中型犬幼犬全价犬粮",
+				"src" : "m21.jpg",
+				"price" : "13.2"
+			},
+			{
+				"id" : "shop46",
+				"name" : "冠能中型犬幼犬全价犬粮",
+				"src" : "m22.jpg",
+				"price" : "56.7"
+			},
+			{
+				"id" : "shop47",
+				"name" : "冠能中型犬幼犬全价犬粮",
+				"src" : "m23.jpg",
+				"price" : "14.5"
+			},
+			{
+				"id" : "shop48",
+				"name" : "冠能中型犬幼犬全价犬粮",
+				"src" : "m24.jpg",
+				"price" : "17.8"
+			}
+			
+		]
+	},
+	"classify007":{
+		"name" : "五谷狗粮",
+		"list" : [
+			{
+				"id" : "shop49",
+				"name" : "狗狗零食",
+				"src" : "m25.jpg",
+				"price" : "12.5"
+			},
+			{
+				"id" : "shop50",
+				"name" : "狗狗零食",
+				"src" : "m26.jpg",
+				"price" : "12.5"
+			},
+			{
+				"id" : "shop51",
+				"name" : "狗狗零食",
+				"src" : "m27.jpg",
+				"price" : "13.2"
+			},
+			{
+				"id" : "shop52",
+				"name" : "狗狗零食",
+				"src" : "m28.jpg",
+				"price" : "14.3"
+			},
+			{
+				"id" : "shop53",
+				"name" : "狗狗零食",
+				"src" : "m29.jpg",
+				"price" : "13.2"
+			},
+			{
+				"id" : "shop54",
+				"name" : "狗狗零食",
+				"src" : "m30.jpg",
+				"price" : "56.7"
+			},
+			{
+				"id" : "shop55",
+				"name" : "狗狗零食",
+				"src" : "m31.jpg",
+				"price" : "14.5"
+			},
+			{
+				"id" : "shop56",
+				"name" : "狗狗零食",
+				"src" : "m32.jpg",
+				"price" : "17.8"
+			}
+			
+		]
+	}
+}

@@ -1,0 +1,130 @@
+@charset "utf-8";
+/* CSS Document */
+/*全局样式*/
+*{margin:0;padding:0;}
+li,ul,ol{list-style:none;}
+a{text-decoration:none;}
+img{border:none;}
+h1,h2,h3,h4,h5,h6,strong,b{font-weight:normal;}
+i,em{font-style:normal;}
+body{font-family:"微软雅黑";font-size:12px;}
+.left{float:left;}
+.right{float:right;}
+.headerwrap{
+	width: 100%;
+	height: 122px;
+}
+.header{
+	width: 1098px;
+	height: 120px;
+	margin: 0 auto;
+	background:url(../image/r1.jpg) no-repeat ; ;
+}
+.header div{
+	float: right;
+	line-height: 120px;
+	color:orange;
+}
+.header div a{
+	padding: 0 18px;
+	color:#000;
+	font-size: 14px;
+}
+.mainwrap{
+	width: 100%;
+	height: 628px;
+	background: #f00c2d url(../image/log.jpg) no-repeat center top;
+	
+}
+.main{
+	width: 1098px;
+	height:628px ;
+	margin: 0 auto;
+	overflow: hidden;
+	
+}
+.main .menu{
+	width: 297px;
+	height: 338px;
+	background: #fff url(../image/h1.jpg) no-repeat 36px 350px;;
+	margin: 113px 0 112px 729px;
+	padding: 16px 37px 51px 36px;
+}
+.main .menu h3{
+	height: 51px;
+	text-align: center;
+	line-height: 51px;
+	font-size: 15px;
+	font-weight: 600;
+	color:#33cb98;
+	border-bottom: 1px solid #33cb98;
+}
+.main .menu .n1{
+	width: 296px;
+	height: 45px;
+	margin: 20px 0;
+	
+	border: 1px solid #c8c8c8;
+}
+.main .menu .n1 input{
+	width: 253px;
+	height: 45px;
+	padding-left: 43px;
+	background: url(../image/i1.jpg) no-repeat 0 13px;
+	border: 0;
+}
+.main .menu .n2{
+	width: 296px;
+	height: 45px;
+	margin-bottom: 20px;
+	border: 1px solid #c8c8c8;
+}
+.main .menu .n2 input{
+	width: 253px;
+	padding-left: 43px;
+	background: url(../image/i2.jpg) no-repeat 0 13px;
+	height: 45px;
+	border: 0;
+}
+.main .menu ul{
+	width: 296px;
+	height: 14px;
+}
+.main .menu ul li a{
+	color:#666666;
+}
+.main .menu ul li input{
+	border: 0;
+	height: 14px;
+	float: left;
+}
+.main .menu ul li .dl{
+	display: block;
+	float: left;
+}
+.main .menu .n3{
+	width: 297px;
+	height: 51px;
+	margin: 24px 0 17px 0; 
+}
+.main .menu .n3 #btn{
+	width: 297px;
+	height: 51px;
+	background: #33cb98;
+	border:0 ;
+	border-radius: 5px;
+	color:#fff;
+	font-size: 20px;
+}
+.footwrap{
+	width: 100%;
+	height: 182px;
+}
+.foot{
+	width: 813px;
+	height: 42px;
+	margin:0 auto;
+	padding: 70px 0;
+	text-align: center;
+	color:#999999;
+}

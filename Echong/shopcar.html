@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<title></title>
+		<link rel="stylesheet" href="css/shopcar.css" />
+		<script src="js/jquery-1.11.1.js"></script>
+		<script type="text/javascript" src="js/cookie.js"></script>
+	</head>
+	<body>
+		<div class="headerwrap">
+			<div class="header">
+				<ul class="nav1">
+					<li class="left"><img src="image/1.jpg" alt="" /><a href="index.html">E宠首页</a></li>
+					<li class="left"><a href="">送至：重庆</a></li>
+					<li class="left"><img src="image/2.jpg" alt="" /><a href="">E宠就是正品</a></li>
+					<li class="left"><a href="">评价（608.4万）</a></li>
+					<li class="right"><a href="" class="last">问题反馈</a></li>
+					<li class="right"><img src="image/6.jpg" alt="" /><a href="">手机版</a></li>
+					<li class="right"><img src="image/5.jpg" alt="" /><a href="">收藏（0）</a></li>
+					<li class="right"><img src="image/4.jpg" alt="" /><a href="">我的E宠</a></li>
+					<li class="right"><img src="image/3.jpg" alt="" /><a href="shopcar.html">购物车（0）</a></li>
+					<li class="right"><a href="register.html">[注册]</a></li>
+					<li class="right"><a href="login.html">[登录]</a></li>
+				</ul>
+			</div>
+		</div>
+		<div class="topwrap">
+			<div class="top">
+					<ul class="box1">
+						<li class="left">购物车</li>
+						<li class="right"><input type="text" class="left"/><a href="" class="right">搜索</a></li>
+					</ul>
+					<div class="nav2" id="nav2">
+					    <span class="cloud" id="cloud"></span>
+					    <ul id="box2">
+					        <li><img src="image/s2.jpg" alt="" /><a href="">E宠购物车0</a></li>
+					        <li><img src="image/s3.jpg" alt="" /><a href="">E宠国际购物车0</a></li>
+					        <li><a href="">我的收藏？</a></li>
+					        <li><a href="">我购买过？</a></li>
+					        <li><a href="">最近浏览0</a></li>
+					    </ul>
+	               </div>
+			</div>
+		</div>
+		<div class="shoplist">
+			<!--
+				'<div class="shop-item clearfix">'+
+					'<p class="fl"><input type="checkbox" class="ck"/></p>'+
+					'<img class="fl" src="img/'+ shopinfo.src +'" alt="" />'+
+					'<p class="fl">'+ shopinfo.name +'</p>'+
+					'<span class="fl">'+ shopinfo.price +'元</span>'+
+					'<p class="fl count" '+
+						'data-id="'+ shopinfo.id +'" '+
+						'data-price="'+ shopinfo.price +'" data-count="'+ shopinfo.count +'"'+
+						'data-name="'+ shopinfo.name +'" data-src="'+ shopinfo.src +'"'+
+						'>'+
+						'<span class="updateCount" data-number="1">+</span>'+
+						'<span class="shop-count">'+ shopinfo.count +'</span>'+
+						'<span class="updateCount" data-number="-1">-</span>'+
+					'</p>'+
+					'<em class="fl sumPrice">'+ shopinfo.price +'</em>'+
+					'<i class="fl delBtn">删除</i>'+
+				'</div>';
+			-->
+		</div>
+		<div id="sum" class="clearfix">
+			共<span class="count2"></span>件商品，合计<span class="money2"></span>元
+			<label class="fl">
+				<input id="selectAll" type="checkbox"/>全选
+			</label>
+		</div>
+		<div class="mainwrap">
+			<div class="main"></div>
+		</div>
+		<div class="footwrap">
+	    	<div class="foot">
+	    		<div class="foot1">
+	    			<ul><li><img src="image/f1.jpg" alt="" /><a href="">绝对的正品</a></li></ul>
+	    			<ul><li><img src="image/f2.jpg" alt="" /><a href="">全球的好货</a></li></ul>
+	    			<ul><li><img src="image/f3.jpg" alt="" /><a href="">自家的仓库</a></li></ul>
+	    			<ul><li><img src="image/f4.jpg" alt="" /><a href="">自家的配送</a></li></ul>
+	    			<ul><li><img src="image/f5.jpg" alt="" /><a href="">养宠的帮手</a></li></ul>
+	    			<ul><li><img src="image/f6.jpg" alt="" /><a href="">小小的成绩</a></li></ul>
+	    		</div>
+	    		<div class="foot2">
+	    			<div class="foot2L">
+	    				<p>服务热线</p>
+	    				<h1>400-888-9200</h1>
+	    				<h1>023-65584888</h1>
+	    				<p>工作时间9：00-21：00（周一到周日）</p>
+	    			</div>
+	    			<div class="foot2R">
+	    				<ul>
+	    					<li>
+	    						<p>支付方式</p>
+	    						<a href="">货到付款</a>
+	    						<a href="">余额支付</a>
+	    						<a href="">在线支付</a>
+	    					</li>
+	    					<li>
+	    						<p>支付方式</p>
+	    						<a href="">货到付款</a>
+	    						<a href="">余额支付</a>
+	    						<a href="">在线支付</a>
+	    						<a href="">在线支付</a>
+	    					</li>
+	    					<li>
+	    						<p>支付方式</p>
+	    						<a href="">货到付款</a>
+	    						<a href="">余额支付</a>
+	    						
+	    					</li>
+	    					<li>
+	    						<p>支付方式</p>
+	    						<a href="">货到付款</a>
+	    						<a href="">余额支付</a>
+	    						<a href="">在线支付</a>
+	    					</li>
+	    				</ul>
+	    			</div>
+	    		</div>
+	    		<div class="foot3">
+	    			<a href="">友情链接</a>
+	    			<a href="">宠物网</a>
+	    			<a href="">骨头王</a>
+	    			<a href="">友情链接</a>
+	    			<a href="">淘狗网</a>
+	    			<a href="">友情链接</a>
+	    			<a href="">重庆宠物</a>
+	    			<a href="">友情链接</a>
+	    			<a href="">钓鱼之家</a>
+	    			<a href="">友情链接</a>
+	    			<a href="">友情链接</a>
+	    			<a href="">罗汉鱼</a>
+	    		</div>
+	    		<div class="foot4"></div>
+	    		<div class="foot5">
+	    			渝ICP备13005525渝ICP备13005525渝ICP备13005525渝ICP备13005525渝ICP备13005525渝ICP备13005525
+	    		</div>
+	    	</div>
+	    </div>
+	</body>
+</html>
+<script src="js/public.js"></script>
+<script src="js/shopcar.js"></script>
